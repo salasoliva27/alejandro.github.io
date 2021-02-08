@@ -21,3 +21,18 @@
   #dasmotos {
       background-image: url("./pattern.webp");
   }
+    
+  #brushes {
+      font-weight: bold;
+      background-color: green;
+  }
+  
+  #frames {
+      font-weight: bold;
+      background-color: pink;
+  }
+
+  #paint {
+      font-weight: bold;
+      background-color: blue;
+  }
